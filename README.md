@@ -28,7 +28,7 @@ To prevent all brokers in your cluster from sending the same, duplicated informa
 
 Releases
 --------
-All releases are available as pre-built jars [here](https://github.com/krux/kafka-metrics-reporter/releases). You can also build the source from scratch using Maven.
+All releases are available as pre-built jars [here](https://github.com/izm1chael/kafka-metrics-reporter/releases/tag/2.0.0). You can also build the source from scratch using Maven.
 
     mvn clean package
     
